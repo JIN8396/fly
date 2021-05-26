@@ -1,0 +1,6 @@
+Content/Core filter=lfs diff=lfs merge=lfs -text
+Content/Developers filter=lfs diff=lfs merge=lfs -text
+Content/Maps filter=lfs diff=lfs merge=lfs -text
+Content/P38 filter=lfs diff=lfs merge=lfs -text
+Content/StarterContent filter=lfs diff=lfs merge=lfs -text
+Content/Collections filter=lfs diff=lfs merge=lfs -text
